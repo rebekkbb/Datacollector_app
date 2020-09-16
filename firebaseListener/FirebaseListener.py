@@ -6,10 +6,10 @@ import numpy
 polarID= "75157825"
 
 config = {
-  "apiKey": "AIzaSyBUFEPqMPdRFja6p1KmjTLQsY41Mhh77A8",
-  "authDomain": "sensordatacollector-fe3b0.firebaseapp.com",
-  "databaseURL": "https://sensordatacollector-fe3b0.firebaseio.com/",
-  "storageBucket": "sensordatacollector-fe3b0.appspot.com"
+  "apiKey": "APIkey",
+  "authDomain": "projectId.firebaseapp.com",
+  "databaseURL": "https://projectId.firebaseio.com/",
+  "storageBucket": "projectId.appspot.com"
 }
 
 arr=[]
